@@ -8,10 +8,10 @@ form {
     padding: 25px;
 }
 
-.error{
+ .error{
     color: red;
 }
 
-.no-error{
+ .no-error{
     color: rgb(0, 255, 0);
 }
